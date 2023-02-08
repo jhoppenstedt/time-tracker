@@ -1,0 +1,89 @@
+{
+  "configVersion": 1,
+  "timestamp": 1675890792532,
+  "index": "/time-tracker/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/time-tracker/738.baf3f8620e42e80f.js",
+        "/time-tracker/963.172d8f45b7157ff2.js",
+        "/time-tracker/favicon.ico",
+        "/time-tracker/index.html",
+        "/time-tracker/main.4ac24da777a5c60a.js",
+        "/time-tracker/manifest.webmanifest",
+        "/time-tracker/polyfills.006eec5e844ae068.js",
+        "/time-tracker/runtime.b8230a5bed89ebbf.js",
+        "/time-tracker/styles.110e565a47136850.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/time-tracker/assets/icons/icon-128x128.png",
+        "/time-tracker/assets/icons/icon-144x144.png",
+        "/time-tracker/assets/icons/icon-152x152.png",
+        "/time-tracker/assets/icons/icon-192x192.png",
+        "/time-tracker/assets/icons/icon-384x384.png",
+        "/time-tracker/assets/icons/icon-512x512.png",
+        "/time-tracker/assets/icons/icon-72x72.png",
+        "/time-tracker/assets/icons/icon-96x96.png",
+        "/time-tracker/assets/icons/icon.png",
+        "/time-tracker/assets/logo.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/time-tracker/738.baf3f8620e42e80f.js": "2d24e7a0f579f1ecc24bb8489bb5f40e505792ee",
+    "/time-tracker/963.172d8f45b7157ff2.js": "14c1c3ab3a4068c51dd589a44584878413cca0f7",
+    "/time-tracker/assets/icons/icon-128x128.png": "f303b14b638f4ebbffbc937cd52a65e8c7fca6cc",
+    "/time-tracker/assets/icons/icon-144x144.png": "160c94aae64d13d1a3c247ac522176301d2ba959",
+    "/time-tracker/assets/icons/icon-152x152.png": "5b96c9ac715eaa00df727d0c1e4a6c7b375c2c8f",
+    "/time-tracker/assets/icons/icon-192x192.png": "6f92f15ba6d9e5be18c725524b6f9876679ba07e",
+    "/time-tracker/assets/icons/icon-384x384.png": "94763eb36029f8e3230ae1c80f36e5b7b481eeed",
+    "/time-tracker/assets/icons/icon-512x512.png": "4d8c90b221c04e094ca9aa5f6013c850718f9b07",
+    "/time-tracker/assets/icons/icon-72x72.png": "9916877e6c99865af3afa667c2ebb1343d8f3b69",
+    "/time-tracker/assets/icons/icon-96x96.png": "ee3718a5a1875de978349ec3d5c6b51f7ee3e9b9",
+    "/time-tracker/assets/icons/icon.png": "2ce217a800a499134022608d77150cf88af3f199",
+    "/time-tracker/assets/logo.png": "07b574581df58aebc3ad4114a54f0cd8a61981f7",
+    "/time-tracker/favicon.ico": "30ee450f1056d1201e475a9f45fd66c99b14962a",
+    "/time-tracker/index.html": "7d1aaba19f7dac728974bf0dfe4885b81e48ff17",
+    "/time-tracker/main.4ac24da777a5c60a.js": "974474573a9bf7172477e7cd935d91b6bf9c50b9",
+    "/time-tracker/manifest.webmanifest": "e4b183af1c25b54e545cc47244d3fbde6eb61478",
+    "/time-tracker/polyfills.006eec5e844ae068.js": "0040a3f53af53a3b5392f1bb871bdd5a41d7f951",
+    "/time-tracker/runtime.b8230a5bed89ebbf.js": "f1b59c05285d969d1a1ca935b2e9e55763a5ae5e",
+    "/time-tracker/styles.110e565a47136850.css": "ec7c7c6a137bcd1319557433ff6eefad23ac79f0"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
